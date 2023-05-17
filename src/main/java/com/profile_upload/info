@@ -1,0 +1,4 @@
+Store in image in database
+1.We can directly store image as a binary file to the dB
+2.While save we can compress it and store in dB, And while retrieving we can decompress it.
+3.Files which are not frequently used and this approach has more secure access
